@@ -1,2 +1,2 @@
 #!/bin/usr
-chmod 751 my_dir
+chmod 751 /alx-system_engineering-devops/0x00-shell_basics/my_dir  
