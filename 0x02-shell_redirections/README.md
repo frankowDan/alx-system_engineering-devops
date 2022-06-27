@@ -1,1 +1,1 @@
-The script echo "Hello world\n" prints Hello, World with a new line.
+The script prints Hello world.
